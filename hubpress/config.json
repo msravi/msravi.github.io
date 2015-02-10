@@ -1,7 +1,7 @@
 {
   "meta": {
-    "msravi": "put your username here",
-    "msravi.github.io": "put your repository name here",
+    "username": "msravi",
+    "repositoryName": "msravi.github.io",
     "branch": "master"
   },
   "theme": {
